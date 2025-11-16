@@ -1,5 +1,7 @@
 # InteractivePeriodicTable
 
+[en](README.en.md)
+
 ## 개요
 
 이 사이트는 주기율표를**커스텀**을 위해 설계된 웹 인터랙티브 도구입니다.
